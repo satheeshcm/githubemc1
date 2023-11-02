@@ -21,9 +21,12 @@ git push origin <origin(ex main)>
 
 git push origin <origin(ex main)> --force
 
-git stash <file>
+git stash <file> (for staging )
 
 git stash clear ( all files will cleaer)
 
+git pull (to pull all new and modified files)
 
+git pull origin <origin name>
 
+Any modification->add->commit->push
