@@ -1,1 +1,29 @@
-Created test1.txt file
+git config --global user.name "gitusername"
+
+git cofig --global use.email "gitemail"
+
+git clone <past link>
+
+git status
+
+					Insert->add->commit->push
+
+git add <file>
+git add .
+
+Git add means whatever you do modify, add, delete will be in staging area.
+
+git resore --staged <file>
+
+git commit -m "commit msg"
+
+git push origin <origin(ex main)>
+
+git push origin <origin(ex main)> --force
+
+git stash <file>
+
+git stash clear ( all files will cleaer)
+
+
+
