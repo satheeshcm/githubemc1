@@ -30,3 +30,19 @@ git pull (to pull all new and modified files)
 git pull origin <origin name>
 
 Any modification->add->commit->push
+
+git remote add origin <repository url>
+
+git branch - to display the branch
+
+git branch -m <branch name> - to rename the branch
+git branch -a (to display all branches)
+git checkout <branchname> - to switchover between branches 
+
+git diff <branch> To compare between branches to find the diffirence.
+
+git merge <branchname> - to merge differencial files between branches
+
+git branch <branchname> - To create a new branch
+
+
