@@ -6,7 +6,7 @@ git clone <past link>
 
 git status
 
-					Insert->add->commit->push
+					
 
 git add <file>
 git add .
